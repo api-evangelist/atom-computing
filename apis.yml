@@ -1,0 +1,72 @@
+aid: atom-computing
+name: Atom Computing
+description: >-
+  Atom Computing is a Berkeley, California neutral-atom quantum computing
+  company building large-scale, gate-based quantum computers using
+  optically-trapped Ytterbium-171 nuclear-spin qubits. Founded in 2018 by
+  Ben Bloom, the company became the first in the industry to exceed 1,000
+  qubits in a gate-based quantum computer with its second-generation
+  platform in October 2023 (1,180 qubits across 1,225 sites). Its current
+  commercial product, AC1000, is a universal gate-based, on-premises
+  quantum computing system with 1,200+ physical qubits, all-to-all
+  connectivity, mid-circuit measurement with qubit reuse and reset,
+  real-time conditional branching, and better-than-threshold fidelities
+  (>99.9% single-qubit, >99.6% two-qubit, >99.8% SPAM). The platform is
+  programmable via OpenQASM and QIR (Quantum Intermediate Representation)
+  and ships with a 20-qubit classical emulator. In January 2025 Atom
+  Computing and Microsoft announced an on-premises 50-logical-qubit system
+  (Magne), with additional strategic collaborations across Cisco
+  (networked/distributed quantum, March 2026), NVIDIA NVQLink integration
+  (March 2026), and a Letter of Intent for $100M from the U.S. Department
+  of Commerce (May 2026). The commercial model centers on enterprise and
+  national-lab on-premises system sales and partnerships; there is no
+  public cloud API or self-serve developer portal — programmatic access is
+  via the standard OpenQASM/QIR toolchains targeting customer-deployed
+  AC1000 hardware.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Quantum Computing
+  - Neutral Atom
+  - Gate-Based Quantum
+  - Logical Qubits
+  - Error Correction
+  - Fault Tolerance
+  - OpenQASM
+  - QIR
+  - On-Premises
+  - Hardware
+  - Research
+url: https://raw.githubusercontent.com/api-evangelist/atom-computing/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://atom-computing.com
+  - type: Product
+    url: https://atom-computing.com/ac1000/
+  - type: Technology
+    url: https://atom-computing.com/quantum-computing-technology/
+  - type: About
+    url: https://atom-computing.com/about/
+  - type: News
+    url: https://atom-computing.com/news-resources/
+  - type: TechPerspectives
+    url: https://atom-computing.com/tech-perspectives/
+  - type: Careers
+    url: https://atom-computing.com/careers/
+  - type: Contact
+    url: https://atom-computing.com/contact/
+  - type: GitHub
+    url: https://github.com/atom-computing
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/atom-computing
+  - type: Twitter
+    url: https://twitter.com/atom_computing
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
